@@ -129,4 +129,5 @@ def check_info_valid(tgt0,tgt1):
 
 
 if __name__ == '__main__':
-    socket_service_data() # testing
+    print('Ready for testing...')
+    socket_service_data()
